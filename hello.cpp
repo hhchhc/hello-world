@@ -1,3 +1,7 @@
+/*
+	git pull origin master --allow-unrelated-histories
+*/
+
 #include <stdio.h>
 
 int main() {
